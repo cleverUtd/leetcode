@@ -1,6 +1,7 @@
+有空就刷题系列
 # leetcode
 
-LeetCode C++ / Java Solutions
+LeetCode Solutions
 
 
 - Medium
