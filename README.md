@@ -1,10 +1,7 @@
-有空就刷题系列
-# leetcode
-
-LeetCode Solutions
+有空就刷题系列 LeetCode Solutions
 
 
-- Medium
+## Medium
 
 | Title | Solution | Runtime 
 | --- | --- | --- 
