@@ -1,12 +1,7 @@
-public class AddTwoNumbers {
+package linkedList;
+import static linkedList.LinkedListUtils.*;
 
-	public static class ListNode {
-		int val;
-		ListNode next;
-		ListNode(int x) {
-			val = x;
-		}
-	}
+public class AddTwoNumbers {
 
 	public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		int num1 = 0, i = 1;
