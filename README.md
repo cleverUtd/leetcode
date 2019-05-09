@@ -5,7 +5,6 @@
 
 | No | Title | Solution 
 | --- | --- | --- 
-
 | 1 | [Two Sum](https://oj.leetcode.com/problems/two-sum) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/TwoSum.java) 
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ValidParentheses.java) 
 | 136 | [Single Number](https://oj.leetcode.com/problems/single-number) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/SingleNumber.java) 
