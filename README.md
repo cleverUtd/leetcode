@@ -9,6 +9,7 @@
 | [Two Sum](https://oj.leetcode.com/problems/two-sum) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/TwoSum.java) 
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/LinkedListCycle.java) 
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/ReverseLinkedList.java) 
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ValidParentheses.java) 
 
 ## Medium
 
