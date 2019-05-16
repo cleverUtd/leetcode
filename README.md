@@ -10,7 +10,8 @@
 | 136 | [Single Number](https://oj.leetcode.com/problems/single-number) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/SingleNumber.java) 
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/LinkedListCycle.java) 
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/ReverseLinkedList.java) 
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ImplementQueueUsingStacks.java) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ImplementQueueUsingStacks.java) 
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ImplementStackUsingQueues.java)
 
 ## Medium
 
