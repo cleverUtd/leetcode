@@ -26,7 +26,7 @@ public class SlidingWindowMaximum {
 			 	deque.removeFirst();
 			 }
 
-			 // 符合一个窗口期，取出队头即当前窗口最大的数
+			 // 每个窗口期取出队头即当前窗口最大的数
 			 if (i + 1 >= k) {
 			 	result[i + 1 - k] = nums[deque.getFirst()];
 			 }
