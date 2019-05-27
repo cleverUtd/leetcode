@@ -12,7 +12,7 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ImplementQueueUsingStacks.java) 
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ImplementStackUsingQueues.java)
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/heap/KthLargest.java)
-| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/LongPressedName.java) 
+| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/twoPointers/LongPressedName.java) 
 
 ## Medium
 | No | Title | Solution
