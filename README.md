@@ -9,9 +9,10 @@
 | 136 | [Single Number](https://oj.leetcode.com/problems/single-number) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/SingleNumber.java) 
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/LinkedListCycle.java) 
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/ReverseLinkedList.java) 
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ImplementQueueUsingStacks.java) 
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ImplementStackUsingQueues.java)
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ImplementQueueUsingStacks.java) 
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/heap/KthLargest.java)
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/GoatLatin)
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/twoPointers/LongPressedName.java) 
 
 ## Medium
