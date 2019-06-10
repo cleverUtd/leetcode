@@ -17,6 +17,7 @@
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SortArrayByParity.java)
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/twoPointers/LongPressedName.java) 
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SquaresOfASortedArray.java)
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/HeightChecker.java)
 
 ## Medium
 | No | Title | Solution
