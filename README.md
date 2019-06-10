@@ -16,6 +16,7 @@
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/GoatLatin.java)
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/FlippingAnImage.java)
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SortArrayByParity.java)
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SortArrayByParityII.java)
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/twoPointers/LongPressedName.java) 
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SquaresOfASortedArray.java)
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/HeightChecker.java)
