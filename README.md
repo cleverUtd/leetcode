@@ -14,6 +14,7 @@
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/ArrayPartitionI.java)
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/heap/KthLargest.java)
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/hashTable/JewelsAndStones.java)
+| 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MaxIncreaseToKeepCitySkyline.java)
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/GoatLatin.java)
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/FlippingAnImage.java)
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SortArrayByParity.java)
