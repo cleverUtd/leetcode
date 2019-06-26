@@ -22,6 +22,7 @@
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SortArrayByParityII.java)
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/twoPointers/LongPressedName.java) 
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/tree/RangeSumOfBST.java)
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/hashTable/NRepeatedElementInSize2NArray.java)
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SquaresOfASortedArray.java)
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/RemoveOutermostParentheses.java)
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/HeightChecker.java)
