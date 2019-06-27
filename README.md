@@ -18,6 +18,7 @@
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/hashTable/JewelsAndStones.java)
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/GoatLatin.java)
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/FlippingAnImage.java)
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/MiddleOfTheLinkedList.java)
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SortArrayByParity.java)
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SortArrayByParityII.java)
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/twoPointers/LongPressedName.java) 
