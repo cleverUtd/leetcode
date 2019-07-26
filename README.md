@@ -39,6 +39,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/slidingWindow/LongestSubstringWithoutRepeatingCharacters.java) 
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/backtracking/Permutations.java)
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/ReverseLinkedListII.java) 
+| 230| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/tree/KthSmallestElementInBSTjava)
 | 454| [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/hashTable/FourSumII.java)
 | 445| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/AddTwoNumbersII.java)
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MaxIncreaseToKeepCitySkyline.java)
