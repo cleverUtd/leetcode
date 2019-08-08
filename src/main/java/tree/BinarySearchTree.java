@@ -1,14 +1,7 @@
 package tree;
 
-public class BSTUtils {
+public class BinarySearchTree extends Tree {
 
-
-	public static class TreeNode {
-		public int val;
-		public TreeNode left;
-		public TreeNode right;
-		TreeNode(int x) { val = x; }
-	}
 
 	public static TreeNode createBST(int[] nums) {
 		TreeNode root = null;
@@ -35,5 +28,4 @@ public class BSTUtils {
 
 		return root;
 	}
-
 }

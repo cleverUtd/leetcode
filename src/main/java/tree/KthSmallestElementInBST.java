@@ -2,8 +2,8 @@ package tree;
 
 import java.util.Stack;
 
-import static tree.BSTUtils.TreeNode;
-import static tree.BSTUtils.createBST;
+import static tree.BinarySearchTree.createBST;
+import static tree.Tree.*;
 
 public class KthSmallestElementInBST {
 

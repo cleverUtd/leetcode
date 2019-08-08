@@ -2,7 +2,7 @@ package tree;
 
 import java.util.*;
 
-import static tree.BSTUtils.*;
+import static tree.BinarySearchTree.*;
 
 public class RangeSumOfBST {
 

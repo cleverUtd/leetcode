@@ -16,6 +16,7 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/twoPointers/ReverseString.java)
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/FibonacciNumber.java)
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/ArrayPartitionI.java)
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)| [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/tree/SubtreeOfAnotherTree.java)
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/heap/KthLargest.java)
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/ToLowerCase.java)
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/hashTable/JewelsAndStones.java)
@@ -38,7 +39,7 @@
 | --- | --- | --- 
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/AddTwoNumbers.java) 
 | 3 | [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/slidingWindow/LongestSubstringWithoutRepeatingCharacters.java) 
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/RemoveNthNodeFromEndOfList.java)
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-treeNode-from-end-of-list/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/RemoveNthNodeFromEndOfList.java)
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/backtracking/Permutations.java)
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MergeIntervals.java)
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/ReverseLinkedListII.java) 
