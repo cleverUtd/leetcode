@@ -36,6 +36,7 @@ public class Tree {
 				queue.add(treeNode.right);
 			}
 		}
+		System.out.println();
 	}
 }
 
