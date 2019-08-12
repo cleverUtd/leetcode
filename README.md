@@ -7,6 +7,7 @@
 | 1 | [Two Sum](https://oj.leetcode.com/problems/two-sum) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/TwoSum.java) 
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/stack/ValidParentheses.java) 
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/MergeTwoSortedLists.java)
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/tree/MaximumDepthOfBinaryTree.java)
 | 136 | [Single Number](https://oj.leetcode.com/problems/single-number) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/SingleNumber.java) 
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/LinkedListCycle.java) 
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MajorityElement.java)
