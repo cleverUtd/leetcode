@@ -36,6 +36,7 @@
 | 30 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/RemoveOutermostParentheses.java)
 | 31 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/HeightChecker.java)
 | 32 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/FIzzBuzz.java)
+| 33 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/DeleteNodeInALinkedList.java)
 
 ## Medium
 | No | Title | Solution
