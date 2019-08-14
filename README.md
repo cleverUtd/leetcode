@@ -35,6 +35,7 @@
 | 29 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/SquaresOfASortedArray.java)
 | 30 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/RemoveOutermostParentheses.java)
 | 31 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/HeightChecker.java)
+| 32 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/FIzzBuzz.java)
 
 ## Medium
 | No | Title | Solution
