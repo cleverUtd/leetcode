@@ -38,6 +38,7 @@
 | 32 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/FIzzBuzz.java)
 | 33 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/linkedList/DeleteNodeInALinkedList.java)
 | 34 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MoveZeroes.java)
+| 35 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/ValidAnagram.java)
 
 ## Medium
 | No | Title | Solution
