@@ -40,6 +40,7 @@
 | 34 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MoveZeroes.java)
 | 35 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/ValidAnagram.java)
 | 36 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/RomanToInteger.java)
+| 37 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/ContainsDuplicate.java)
 
 ## Medium
 | No | Title | Solution
