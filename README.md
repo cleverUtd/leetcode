@@ -42,6 +42,7 @@
 | 36 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/string/RomanToInteger.java)
 | 37 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/ContainsDuplicate.java)
 | 38 | [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/RunningSumOf1dArray.java)
+| 38 | [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/heap/LastStoneWeight.java)
 
 ## Medium
 | No | Title | Solution
