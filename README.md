@@ -64,3 +64,4 @@
 | No | Title | Solution
 | --- | --- | --- 
 | 1 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/slidingWindow/SlidingWindowMaximum.java)
+| 2 | [面试题 08.12. 八皇后](https://leetcode.com/problems/eight-queens-lcci/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/backtracking/EightQueens.java)
