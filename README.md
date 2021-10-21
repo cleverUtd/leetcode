@@ -44,6 +44,7 @@
 | 38 | [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/RunningSumOf1dArray.java)
 | 38 | [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/heap/LastStoneWeight.java)
 | 39 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MaximumSubarray.java)
+| 40 | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/tree/BinaryTreeInorderTraversal.java)
 
 ## Medium
 | No | Title | Solution
