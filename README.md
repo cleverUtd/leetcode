@@ -61,6 +61,7 @@
 | 10 | [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MaxIncreaseToKeepCitySkyline.java)
 | 11 | [442. find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/FindAllDuplicatesInAnArray.java)
 | 12 | [739. daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/dailyTemperatures/Solution_Stack.java)
+| 13 | [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/tree/PopulatingNextRightPointersInEachNode.java)
 
 ## Hard
 | No | Title | Solution
