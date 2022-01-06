@@ -5,6 +5,7 @@ public class TrappingRainWater {
     public static void main(String[] args) {
         System.out.println(trap(new int[]{0,1,0,2,1,0,1,3,2,1,2,1}));
         System.out.println(trap_memo(new int[]{0,1,0,2,1,0,1,3,2,1,2,1}));
+        System.out.println(trap_double_pointer(new int[]{0,1,0,2,1,0,1,3,2,1,2,1}));
     }
 
     public static int trap(int[] height) {
@@ -42,6 +43,27 @@ public class TrappingRainWater {
         int ans = 0;
         for (int i = 0; i < height.length; i++) {
             ans += Math.min(lMax[i], rMax[i]) - height[i];
+        }
+        return ans;
+    }
+
+    public static int trap_double_pointer(int[] height) {
+        int left = 0;
+        int right = height.length - 1;
+        int lMax = height[left];
+        int rMax = height[right];
+        int ans = 0;
+        while (left <= right) {
+            lMax = Math.max(lMax, height[left]);
+            rMax = Math.max(rMax, height[right]);
+
+            if (lMax < rMax) {
+                ans += lMax - height[left];
+                left++;
+            } else {
+                ans += rMax - height[right];
+                right --;
+            }
         }
         return ans;
     }
