@@ -1,13 +1,5 @@
 package array;
 
-/**
- * 26.remove-duplicates-from-sorted-array
- *
- * @author 刘梓聪
- * @email liuzicong@aulton.com
- * @date 2025/6/5 14:33
- * @Copyright Copyright(c) aulton Inc.AllRightsReserved.
- **/
 public class RemoveDuplicates {
     public static int removeDuplicates(int[] nums) {
         if (nums.length == 0) {
