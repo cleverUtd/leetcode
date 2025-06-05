@@ -1,4 +1,4 @@
-有空就刷题系列 LeetCode Solutions
+刷题练手系列 LeetCode Solutions
 
 
 ## Easy
