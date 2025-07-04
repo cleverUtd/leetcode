@@ -45,7 +45,8 @@
 | 39 | [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight)                                          | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/heap/LastStoneWeight.java)                    |
 | 40 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)                                                | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/MaximumSubarray.java)                   |
 | 41 | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                                | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/tree/BinaryTreeInorderTraversal.java)         |
-| 42 | [26. remove-duplicates-from-sorted-array](https://leetcode.cn/problems/remove-duplicates-from-sorted-array)                                | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/RemoveDuplicates.java)         |
+| 42 | [26. remove-duplicates-from-sorted-array](https://leetcode.cn/problems/remove-duplicates-from-sorted-array)    | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/RemoveDuplicates.java)         |
+| 43 | [27. remove-element](https://leetcode.cn/problems/remove-element)                         | [Java](https://github.com/cleverUtd/leetcode/blob/master/src/main/java/array/RemoveElement.java)         |
 
 ## Medium
 | No | Title                                                                                                                                | Solution                                                                                                                              |
